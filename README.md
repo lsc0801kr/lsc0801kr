@@ -10,7 +10,7 @@
 - 📫 저의 일상을 볼 수 있는 블로그 입니다. https://blog.naver.com/sc0801kr
 - 📫 저의 대외활동 기록을 모아 볼 수 있는 인스타그램 페이지 입니다. https://www.instagram.com/toward_the_career/
 
---------------------------------------------------------------------
+------------------------------------------
 - 👋 INHA University Geoinformatic Engineering / Software Convergence Engineering
 
 - 👀 I am an ordinary student who wants to make a map that can make the world a better place.
