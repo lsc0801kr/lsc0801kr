@@ -14,7 +14,7 @@
 - 👋 INHA University Geoinformatic Engineering / Software Convergence Engineering
 
 - 👀 I am an ordinary student who wants to make a map that can make the world a better place.
-      Autonomous Behavior mapping, 3D mapping, and so on..
+      Autonomous driving mapping, 3D mapping, and so on..
 
 - 🌱 Based on the various major knowledge learned in Geoinformatic engineering, I am trying to become the talent that various companies want by adding software skills.
 
