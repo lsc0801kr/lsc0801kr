@@ -15,7 +15,5 @@
 
 - 🌱 Based on the various major knowledge learned in Geoinformatic engineering, I am trying to become the talent that various companies want by adding software skills.
 
-- 💞️ Like-lion INHA 9th
-
 - 📫 It's a blog where you can see my daily life. https://blog.naver.com/sc0801kr
 - 📫 This is an Instagram page where you can collect my external activity records. https://www.instagram.com/toward_the_career/
