@@ -1,7 +1,5 @@
 - 👋 인하대학교 공간정보공학과 / 소프트웨어융합공학 전공자입니다.
-
-- 👀 이 세상을 더욱 나은 곳으로 만들 수 있는 지도를 만들고 싶은 평범한 학생입니다.
-      자율주행 mapping, 3D mapping, and so on..
+- 👀 이 세상을 더욱 나은 곳으로 만들 수 있는 지도를 만들고 싶은 평범한 학생입니다. 자율주행 mapping, 3D mapping, and so on..
 
 - 🌱 공간정보공학에서 배우는 다양한 전공지식을 바탕으로 소프트웨어적인 능력을 더해 다양한 기업이 원하는 인재가 되고자 노력하고 있습니다.
 
@@ -13,8 +11,7 @@
 ------------------------------------------
 - 👋 INHA University Geoinformatic Engineering / Software Convergence Engineering
 
-- 👀 I am an ordinary student who wants to make a map that can make the world a better place.
-      Autonomous driving mapping, 3D mapping, and so on..
+- 👀 I am an ordinary student who wants to make a map that can make the world a better place. Autonomous driving mapping, 3D mapping, and so on..
 
 - 🌱 Based on the various major knowledge learned in Geoinformatic engineering, I am trying to become the talent that various companies want by adding software skills.
 
